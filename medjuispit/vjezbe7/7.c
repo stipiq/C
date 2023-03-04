@@ -6,10 +6,5 @@ int main(){
     {
         scanf("%d", &n);
     } while (n > 0 && n < 20001);
-    
-    
-
-    
-
     return 0;
 }
